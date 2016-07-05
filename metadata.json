@@ -25,6 +25,10 @@
     {
       "name": "conzar/check_run",
       "version_requirement": ">= 0.2.3"
+    },
+    {
+      "name": "puppetlabs/inifile",
+      "version_requirement": ">= 1.5.0"
     }
   ]
 }
